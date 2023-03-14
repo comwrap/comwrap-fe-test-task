@@ -8,7 +8,7 @@ Your challenge is to build an questioneer app asking the user random questions f
 
 You can use any tools you like to help you complete the challenge.
 
-The user should be able to:
+The users should be able to:
 
 - See how many question there are left to answer
 - See how many questions they have answered correctly / incorrectly
@@ -18,7 +18,7 @@ The user should be able to:
 
 ## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design.
+Your task is to build out the project to the designs inside the `/design` folder. The design consists out of two flows. The first flow is for answering a question correctly. The scond flow shows an incorreclty answered question. The design is optimized for mobile devices. **Adjusting the design for larger screens is not part of the challenge.**
 
 The designs are in PNG static format. Using PNGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`.
 
@@ -26,13 +26,19 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 You will find the data for the questions in the `/data` folder. The data contains 20 questions in total.
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+There is also a `style-guide.md` file containing the information you'll need, such as the color palette and fonts used in the design.
 
 ## Building your project
 
-1. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-2. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-3. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-4. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+1. Create a project that you can host locally. You can use any tool you like to do this. We recommend using [vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) or [CodeSandbox](https://codesandbox.io/) or [Stackblitz](https://stackblitz.com/).
+2. Code out the project to the designs. You can use any tools you like to help you complete the challenge.
+3. For interactivity, you can use any tools you like. We recommend using [React](https://reactjs.org/).
 
-**Have fun building!** 🚀
+## What we value
+
+- **Prototype**: A working prototype is better than a pixel-perfect header.
+- **HTML**: Semantic HTML is important to us. We also value well-structured HTML.
+- **CSS**: We value clean, readable CSS. We are using [Tailwind](https://tailwindcss.com/) in some of our projects. You can use it or any other tool you like.
+- **JavaScript**: We stick to modern JavaScript. We are using Typescript in some of our projects but this is not a requirement for this challenge.
+
+# **Have fun building!** 🚀
